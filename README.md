@@ -35,3 +35,28 @@ This is a Streamlit application that allows users to translate English text into
 2. Change to the project directory:
    ```bash
    cd multilingual-translator
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+#  Usage
+## Usage
+
+1. Run the Streamlit application:
+   ```bash
+   streamlit run app.py
+2. The application will open in your default web browser.
+3. Enter the English text you want to translate in the text area.
+4. Select the target language from the dropdown menu.
+5. Click the "Translate" button to see the translated text.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- The Transformer models used in this application are provided by the [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) team.
+- The deployment of this application on Hugging Face was made possible by the Hugging Face platform.
+
+
+
