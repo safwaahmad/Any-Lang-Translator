@@ -32,4 +32,6 @@ This is a Streamlit application that allows users to translate English text into
 
    ```bash
    git clone https://github.com/your-username/multilingual-translator.git
+
+   ```bash
    cd multilingual-translator
