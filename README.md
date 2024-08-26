@@ -55,8 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 - The deployment of this application on Hugging Face was made possible by the Hugging Face platform.
   <br>
-[Translator](https://huggingface.co/spaces/Safwanahmad619/Language-Translator)
-[Translator](https://huggingface.co/spaces/Safwanahmad619/Language-Translator)
+[Translator](https://huggingface.co/spaces/Safwanahmad619/Language-Translator) 
 
 
 
