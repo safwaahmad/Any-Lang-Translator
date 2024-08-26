@@ -1,4 +1,3 @@
-# Any-Lang-Translator
 # Multilingual Translator
 
 This is a Streamlit application that allows users to translate English text into various languages using pre-trained Transformer-based machine translation models.
@@ -30,3 +29,7 @@ This is a Streamlit application that allows users to translate English text into
 ## Installation
 
 1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/multilingual-translator.git
+   cd multilingual-translator
