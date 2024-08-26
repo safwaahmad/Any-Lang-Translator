@@ -39,7 +39,6 @@ This is a Streamlit application that allows users to translate English text into
    ```bash
    pip install -r requirements.txt
 #  Usage
-## Usage
 
 1. Run the Streamlit application:
    ```bash
@@ -54,9 +53,8 @@ This is a Streamlit application that allows users to translate English text into
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
-- The Transformer models used in this application are provided by the [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) team.
 - The deployment of this application on Hugging Face was made possible by the Hugging Face platform.
+-[Translator](https://huggingface.co/spaces/Safwanahmad619/Language-Translator)
 
 
 
