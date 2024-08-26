@@ -2,6 +2,7 @@
 # Multilingual Translator
 
 This is a Streamlit application that allows users to translate English text into various languages using pre-trained Transformer-based machine translation models.
+- **User-Friendly Interface:** Simple and intuitive UI for entering text and selecting the target language.
 
 ## Features
 
