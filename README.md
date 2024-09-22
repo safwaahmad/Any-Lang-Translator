@@ -5,7 +5,6 @@ This Streamlit application allows users to translate English text into various l
 
 ## Features
 
-
 - Supports translation to the following languages: French, Spanish, German, Italian, Urdu, and Arabic.
 - Provides a clean and user-friendly interface for entering the text to be translated and selecting the target language.
 - Displays the translated text in the selected language.
